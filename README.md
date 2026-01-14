@@ -24,3 +24,7 @@ The analysis identified multiple road centerline segments extending beyond the P
 - Spatial analysis in ArcGIS Pro
 - Jurisdictional boundary validation
 - GIS documentation and reporting
+
+## Map Output
+
+![Road Centerlines Outside PSAP](RoadCenterlines_Outside_PSAP_NoneFound.jpg)
